@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MERN stack, UI/UX designing**
 
-- 👨‍💻 My projects are available at [testlink](testlink)
+- 👨‍💻 My projects are available at [filcker portfolio](https://flic.kr/ps/3ZiZqy)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MERN**
 
