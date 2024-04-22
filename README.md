@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isuru Dananjaya</h1>
-<h3 align="center">An Undergraduate Software Engineer</h3> 
+<h3 align="center">A Full-Stack Web Developer</h3> 
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dananjayahbi&color=green" alt="dananjayahbi" />
@@ -8,14 +8,9 @@
   &nbsp<img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="dananjayahbi" />
 </p>
 
+- 🌱 I’m currently learning **Springboot, Angular, NextJS, TypeScript**
 
-<p align="left"> <a href="https://twitter.com/test" target="blank"><img src="https://img.shields.io/twitter/follow/test?logo=twitter&style=for-the-badge" alt="test" /></a> </p>
-
-- 🌱 I’m currently learning **MERN stack, UI/UX designing**
-
-- 👨‍💻 My projects are available at [filcker portfolio](https://flic.kr/ps/3ZiZqy)
-
-- 💬 Ask me about **HTML,CSS,JavaScript,MERN**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **dananjayahbi@gmail.com**
 
@@ -23,10 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="test" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/isuru-dananjaya-6b5134217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="test" height="30" width="40" /></a>
 <a href="https://www.facebook.com/isuru.dananjaya.969300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="test" height="30" width="40" /></a>
-<a href="https://instagram.com/test" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="test" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
