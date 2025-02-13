@@ -8,13 +8,13 @@
   &nbsp<img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="dananjayahbi" />
 </p>
 
-- 🌱 I’m currently learning **Springboot, Angular, NextJS, TypeScript**
+- 🌱 I’m currently learning **NextJS, TypeScript, Deeplearning**
 
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **dananjayahbi@gmail.com**
 
-- PORTFOLIO : **https://bit.ly/m3Portfolio**
+- PORTFOLIO : **https://my-portfolio-v2-0-five.vercel.app/**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=An+undergraduate+software+engineer;UI%2FUX+Designer;Full+stack+web+developer)](https://git.io/typing-svg)
 
