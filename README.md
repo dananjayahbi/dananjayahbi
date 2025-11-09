@@ -8,7 +8,7 @@
   &nbsp<img src="https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label" alt="dananjayahbi" />
 </p>
 
-- 🌱 I’m currently learning **NextJS, TypeScript, Deeplearning**
+- 🌱 I’m currently learning **Django, Deeplearning**
 
 - 💬 Ask me about **MERN Stack**
 
